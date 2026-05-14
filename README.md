@@ -1,4 +1,4 @@
-<div align="center">
+240c94a86ac2708242c2cceaf5081f83b6a2cb52<div align="center">
 
   <!-- Logo + Text as clickable link -->
   <a href="https://easyapps.me" target="_blank">
